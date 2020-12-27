@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">奇门避五</string>
+    <string name="mainActivityTitle">五不遇时查询</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
